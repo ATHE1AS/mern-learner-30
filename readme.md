@@ -18,8 +18,8 @@ a Git staging
   3. git status (folder vitra vayeko files haru ko status bataunxa)
   4. git add .  (changes lai track garxa)
   5. git commit -m "message about change"
-  6. 
-  7. 
-  8. 
+  6. git config --global user.email"email"
+  7. git stash (removes uncomitted codes)
+  8. git push origin master
   9. 
   10. 
