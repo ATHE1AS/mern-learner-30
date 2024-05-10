@@ -20,6 +20,6 @@ a Git staging
   5. git commit -m "message about change"
   6. git config --global user.email"email"
   7. git stash (removes uncomitted codes)
-  8. git push origin master
-  9. 
+  8. git push origin master (to push the code in github)
+  9. git clone (url of that repo) [git pull origin main]
   10. 
