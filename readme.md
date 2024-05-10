@@ -16,8 +16,8 @@ a Git staging
   1. Git init (one time / first time command)
   2. git remote add origin (https or ssh url)
   3. git status (folder vitra vayeko files haru ko status bataunxa)
-  4. git add . 
-  5. 
+  4. git add .  (changes lai track garxa)
+  5. git commit -m "message about change"
   6. 
   7. 
   8. 
